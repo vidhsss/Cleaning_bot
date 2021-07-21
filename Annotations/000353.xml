@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>000353.jpg</filename>
+	<path>/home/yons/yuemei/darknet/VOCdevkit/VOC2020/JPEGImages/000353.xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>678</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cabinet</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>50</ymin>
+			<xmax>678</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+</annotation>
